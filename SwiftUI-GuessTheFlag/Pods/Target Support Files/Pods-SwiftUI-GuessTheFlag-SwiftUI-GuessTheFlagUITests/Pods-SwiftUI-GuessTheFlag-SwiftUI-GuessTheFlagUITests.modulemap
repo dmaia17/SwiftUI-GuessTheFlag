@@ -1,0 +1,6 @@
+framework module Pods_SwiftUI_GuessTheFlag_SwiftUI_GuessTheFlagUITests {
+  umbrella header "Pods-SwiftUI-GuessTheFlag-SwiftUI-GuessTheFlagUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

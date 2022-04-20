@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SwiftUI_GuessTheFlag_SwiftUI_GuessTheFlagUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SwiftUI_GuessTheFlag_SwiftUI_GuessTheFlagUITests
+@end
